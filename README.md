@@ -57,7 +57,7 @@ Internet service type
 This reduces complexity and improves prediction accuracy.
 
  # You can find code here : https://colab.research.google.com/drive/1C7nyd5YT0GU5Axr7fp5n_-FGweqSwseT?usp=sharing
-
+ 
 # Result 
 
 The feature selection process successfully identifies the key attributes that have the strongest impact on customer churn. Features related to customer commitment (contract type and tenure) and service cost (monthly charges) are found to be highly influential.
